@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "pages/background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "128": "images/logo-black-128.png"
+      },
+      "default_popup": "pages/popup.html",
+      "default_title": "__MSG_extension_name__"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' blob:; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "images/logo-black-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxQBNojE8385cRU27NmNwde67Mu8GfA0ctJpvYVrftpzL1m64KAgjiePQIQLHFdw94kEZy+GgItTcURqN31L9in/7fdcTqoIYhr4aZz9k0ZCEKgVB7E1t/NaJf3fjWf2pk4TY7nXRN3fk9UPAS/bNysakrEd+ulSwcfBnS7/zuLde2rVXzXLP7CtbAIr5GNaZYlqtzGQrHoTEBXz+4C1jtvvi008/T6sQ2Imfgwpe9gdOLFLER8PPDdOG6VjYNjC6annt75FW+cMKP+3Rl/kQzChq/NcV2sPi9KcaIl+QqvdOGy6M0nlwgyZLR26C6QtaaxhJPmiuHc5TiciPyWNQHwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extension_name__",
+   "permissions": [ "\u003Call_urls>", "tabs", "storage", "cookies", "unlimitedStorage", "webRequest", "webRequestBlocking", "proxy" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.1"
+}

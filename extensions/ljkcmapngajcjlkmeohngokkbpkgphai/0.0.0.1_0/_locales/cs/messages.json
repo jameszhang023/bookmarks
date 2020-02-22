@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Koupit"
+   },
+   "connect_button_text": {
+      "message": "Připojit"
+   },
+   "connecting_title": {
+      "message": "Spojovací..."
+   },
+   "connection_error": {
+      "message": "Chyba připojení. Prosím zkuste to znovu."
+   },
+   "country_select_page_button": {
+      "message": "Vyberte zemi"
+   },
+   "day": {
+      "message": "Den"
+   },
+   "disconnect_button_text": {
+      "message": "Odpojit"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Snadné použití a ne aktivace, ne ověření. Neomezené a pokaždé ZDARMA!"
+   },
+   "extension_name": {
+      "message": "Volný a nejrychlejší VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Vaše IP adresa"
+   },
+   "last_connected_servers_title": {
+      "message": "Poslední připojené servery"
+   },
+   "location_error": {
+      "message": "Chyba připojení. Zkuste to prosím znovu."
+   },
+   "network_problem_decription": {
+      "message": "Zkontrolujte prosím své internetové připojení."
+   },
+   "network_problem_title": {
+      "message": "Chyba! Problém se sítí"
+   },
+   "please_wait_text": {
+      "message": "Prosím, čekejte..."
+   },
+   "remaing_time": {
+      "message": "Zbývající čas"
+   },
+   "select": {
+      "message": "Vybrat"
+   },
+   "selected": {
+      "message": "Vybraný"
+   },
+   "settings_title": {
+      "message": "Nastavení"
+   },
+   "status_connected_description_text": {
+      "message": "Chráněné připojení!"
+   },
+   "status_connected_text": {
+      "message": "Připojeno"
+   },
+   "status_disconnected_description_text": {
+      "message": "Nechráněné připojení!"
+   },
+   "status_disconnected_text": {
+      "message": "Odpojeno"
+   }
+}

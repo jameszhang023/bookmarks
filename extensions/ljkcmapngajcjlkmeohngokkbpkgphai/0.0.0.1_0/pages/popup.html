@@ -1,0 +1,209 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta data-n-head="true" name="viewport" content="width=device-width,initial-scale=1">
+    <link href="../css/css.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/all.css">
+    <link rel="stylesheet" href="../css/simplebar.min.css">
+	<link rel="stylesheet" href="../css/popup.css">
+	 <link rel="stylesheet" href="../css/animates.css">
+</head>
+
+<body>
+    <div class="app" id="main">
+        <div class="activity main__activity">
+            <div class="main__activity-header">
+                <div class="main__activity-header-bg">
+                </div>
+                <div class="header main__activity-top">
+                    <div class="header__logo">
+                        <img src="../images/logo.svg"></div>
+                    
+                </div>
+				<div class="header__burger" id="last_connected_servers_page_button"><i class="fa fa-bars"></i></div>
+			<div id="settings_page_button" class="header__burger settings_page_button"><i class="fa fa-cog"></i></div>				
+                <div class="country main__activity-country">
+                    <div class="country__container">
+                        <div class="country__container-left">
+                            <div class="country__flag">
+                                <img src="../images/flags/globe.png" id="country_flag_image"></div>
+                            <div class="country__title" id="country_title">Auto</div>
+                        </div>
+                        <div class="country__container-right">
+                            <button class="country__choose" id="country_select_page_button"></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="status main__activity-status">
+                    <div>
+                        <div class="status__title status__title_disconnected" id="status_text">
+                          
+                        </div>
+                        <div class="status__description status__description_disconnected" id="status_text_description">
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main__activity-connection">
+                <div class="connection">
+                    <div class="connection__client">
+                        <div class="connection__client-circle" id="pc_status"><i class="fa fa-laptop fa-w-16 fa-2x"></i></div>
+                    </div>
+                    <div class="connection__ping">
+                        <!---->
+                        <div class="connection__ping-dots">
+							<div class="spinner" id="status_bar">
+								<div class="bounce1"></div>
+								<div class="bounce2"></div>
+								<div class="bounce3"></div>
+								<div class="bounce4"></div>
+								<div class="bounce5"></div>
+								<div class="bounce6"></div>
+								<div class="bounce7"></div>
+							</div>
+                        </div>
+                    </div>
+                    <div class="connection__server">
+                        <div class="connection__server-circle"  id="vpn_status"><i class="fas fa-shield-alt fa-w-16 fa-2x"></i></div>
+                    </div>
+                </div>
+            </div>
+            <div class="main__activity-ip" id="ipaddress"></div>
+            <div class="main__activity-ping" id="ping"></div>			
+            <div class="actions main__activity-actions">
+                <div>
+                    <button class="actions__button" id="action_button"></button>
+                    <!---->
+                </div>
+            </div>
+			<div id="remaing_time" class="premium-remain"></div>
+
+        </div>
+    </div>
+
+    <div class="app" id="select_country">
+        <div class="activity countries__activity">
+            <div class="bar countries__activity-bar">
+                <button class="bar__back" id="back_button_select_coutry_page"><i class="fa fa-chevron-left"></i></button>
+                <div class="bar__title" id="select_country_title"></div>
+            </div>
+            <div class="countries__activity-content">
+                <div class="countries__activity-list" data-simplebar="init">
+                    <div class="simplebar-wrapper" style="margin: 0px;">
+                        <div class="simplebar-height-auto-observer-wrapper">
+                            <div class="simplebar-height-auto-observer"></div>
+                        </div>
+                        <div class="simplebar-mask">
+                            <div class="simplebar-offset" style="right: -20px; bottom: 0px;">
+                                <div class="simplebar-content" id="country_list" style="padding: 0px calc(20px) 0px 0px; height: 100%; overflow: hidden scroll;">
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="simplebar-placeholder" style="width: 240px; height: 1189px;"></div>
+                    </div>
+                    <div class="simplebar-track simplebar-vertical" style="visibility: visible;">
+                        <div class="simplebar-scrollbar" style="height: 87px; transform: translate3d(0px, 0px, 0px); visibility: visible;"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <div class="app" id="settings">
+        <div class="activity settings__activity">
+            <div class="bar settings__activity-bar">
+                <button class="bar__back" id="back_button_settings_page"><i class="fa fa-chevron-left"></i></button>
+                <div class="bar__title" id="option_title"></div>
+            </div>
+
+            <div class="settings__activity-content" data-simplebar="init">
+                <div class="simplebar-wrapper" style="margin: 0px;">
+                    <div class="simplebar-height-auto-observer-wrapper">
+                        <div class="simplebar-height-auto-observer"></div>
+                    </div>
+                    <div class="simplebar-mask">
+                        <div class="simplebar-offset" style="right: -20px; bottom: 0px;">
+                            <div class="simplebar-content" style="padding: 0px calc(20px) 0px 0px; height: 100%; overflow: hidden scroll;">
+
+                                <div class="settings__activity-item">
+                                    <div class="settings__activity-item-title" id="option_autoconnect_title"></div>
+									<div class="settings__item-toggle">
+                                        <label class="switch">
+                                            <input type="checkbox" id="autoconnect">
+                                            <span class="slider round"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="settings__activity-item">
+                                    <div class="settings__activity-item-title">
+                                        <img src="../images/netflix.png" style="width:100px;"></div>
+                                    <div class="settings__item-toggle">
+                                        <label class="switch">
+                                            <input type="checkbox" id="netflix">
+                                            <span class="slider round"></span>
+                                        </label>
+                                    </div>
+                                </div>	
+                                <div class="settings__activity-item" id="premium_area">
+                                    <div class="settings__activity-item-title" style="margin: 7px;font-weight: 900;font-size: 14px;">KEY :
+									</div>
+                                        <input type="text" id="premium_key" size="18" style="position: absolute;border-radius: 15px;border: 3px solid #e50914 !important;left: 55px;height: 30px;"></input>
+							<div class="countries-item__select" id="save_key">Save</div>
+                                </div>									
+                            </div>
+                        </div>
+                    </div>
+                    <div class="simplebar-placeholder" style="width: 240px; height: 1189px;"></div>
+                </div>
+                <div class="simplebar-track simplebar-vertical" style="visibility: visible;">
+                    <div class="simplebar-scrollbar" style="height: 87px; transform: translate3d(0px, 0px, 0px); visibility: visible;"></div>
+                </div>
+            </div>
+						
+        </div>
+    </div>
+	
+    <div class="app" id="last_connected_servers">
+        <div class="activity countries__activity">
+            <div class="bar countries__activity-bar">
+                <button class="bar__back" id="back_button_last_connected_servers"><i class="fa fa-chevron-left"></i></button>
+                <div class="bar__title" id="last_connected_servers_title"></div>
+            </div>
+            <div class="countries__activity-content">
+                <div class="countries__activity-list" data-simplebar="init">
+                    <div class="simplebar-wrapper" style="margin: 0px;">
+                        <div class="simplebar-height-auto-observer-wrapper">
+                            <div class="simplebar-height-auto-observer"></div>
+                        </div>
+                        <div class="simplebar-mask">
+                            <div class="simplebar-offset" style="right: -20px; bottom: 0px;">
+                                <div class="simplebar-content" id="last_connected_country_list" style="padding: 0px calc(20px) 0px 0px; height: 100%; overflow: hidden scroll;">
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="simplebar-placeholder" style="width: 240px; height: 1189px;"></div>
+                    </div>
+                    <div class="simplebar-track simplebar-vertical" style="visibility: visible;">
+                        <div class="simplebar-scrollbar" style="height: 87px; transform: translate3d(0px, 0px, 0px); visibility: visible;"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>	
+
+    <script src="../scripts/jquery.min.js"></script>
+    <script src="../scripts/jquery.scrolly.min.js"></script>
+    <script src="../scripts/simplebar.js"></script>
+    <script src="../scripts/popup.js"></script>
+</body>
+
+</html>

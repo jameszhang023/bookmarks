@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Osta"
+   },
+   "connect_button_text": {
+      "message": "Ühenda"
+   },
+   "connecting_title": {
+      "message": "Ühendamine ..."
+   },
+   "connection_error": {
+      "message": "Ühenduse viga. Palun proovi uuesti."
+   },
+   "country_select_page_button": {
+      "message": "Vali riik"
+   },
+   "day": {
+      "message": "Päev"
+   },
+   "disconnect_button_text": {
+      "message": "Katkesta ühendus"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Lihtne kasutamine ja mitte aktiveerimine, mitte kontroll. Piiramatu ja iga kord TASUTA!"
+   },
+   "extension_name": {
+      "message": "Vaba ja kiireim VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Teie IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Viimati ühendatud serverid"
+   },
+   "location_error": {
+      "message": "Ühenduse viga. Palun proovige uuesti teist asukohta."
+   },
+   "network_problem_decription": {
+      "message": "Palun kontrollige oma Interneti-ühendust."
+   },
+   "network_problem_title": {
+      "message": "Viga! Võrgu probleem"
+   },
+   "please_wait_text": {
+      "message": "Palun oota..."
+   },
+   "remaing_time": {
+      "message": "Aeglustamine"
+   },
+   "select": {
+      "message": "Valige"
+   },
+   "selected": {
+      "message": "Valitud"
+   },
+   "settings_title": {
+      "message": "Seaded"
+   },
+   "status_connected_description_text": {
+      "message": "Kaitstud ühendus!"
+   },
+   "status_connected_text": {
+      "message": "Ühendatud"
+   },
+   "status_disconnected_description_text": {
+      "message": "Kaitsmata ühendus!"
+   },
+   "status_disconnected_text": {
+      "message": "Ühendatud"
+   }
+}

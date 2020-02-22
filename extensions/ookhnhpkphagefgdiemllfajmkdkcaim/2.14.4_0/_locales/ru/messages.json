@@ -1,0 +1,47 @@
+{
+   "appDesc": {
+      "message": "Бесплатное и быстрое расширение Proxy / VPN. iNinja VPN - это антиблокирующая технология Proxy, призванная обеспечить вашу конфиденциальность в Интернете."
+   },
+   "appDisabledButton": {
+      "message": "Активировать приложение"
+   },
+   "appDisabledTitle": {
+      "message": "Чтобы продолжить, вы должны активировать приложение iNinja"
+   },
+   "appName": {
+      "message": "Прокси, VPN, Смена IP, Разблокировка сайтов | iNinja"
+   },
+   "autostartProxy": {
+      "message": "Автозапуск прокси"
+   },
+   "btnTelegram": {
+      "message": "Использовать в Telegram"
+   },
+   "linkBack": {
+      "message": "Назад"
+   },
+   "linkReview": {
+      "message": "Оставить отзыв"
+   },
+   "linkSettings": {
+      "message": "Настройки прокси"
+   },
+   "noInstalledButton": {
+      "message": "Добавить в Chrome"
+   },
+   "noInstalledTitle": {
+      "message": "Чтобы продолжить, вам необходимо установить дополнение iNinja"
+   },
+   "reviewMsg": {
+      "message": "Пожалуйста, если вам понравилось наше расширение вы можете оставить отзыв"
+   },
+   "settingsTitle": {
+      "message": "Настройки прокси"
+   },
+   "useInOtherApps": {
+      "message": "Использовать в другом приложение"
+   },
+   "whiteListDomains": {
+      "message": "Белый список доменов"
+   }
+}

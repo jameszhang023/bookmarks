@@ -1,0 +1,47 @@
+{
+   "appDesc": {
+      "message": "मुफ्त और धधकते तेज प्रॉक्सी / वीपीएन विस्तार। iNinja वीपीएन एक प्रॉक्सी एंटी-ब्लॉकिंग तकनीक है जो आपकी ऑनलाइन प्राइवेसी लेने के लिए है।"
+   },
+   "appDisabledButton": {
+      "message": "Enabled App"
+   },
+   "appDisabledTitle": {
+      "message": "To continue you must turn enabled iNinja App"
+   },
+   "appName": {
+      "message": "किसी भी तरह की साइट को अनब्लॉक करने के लिए निशुल्क प्रॉक्सी वीपीएन"
+   },
+   "autostartProxy": {
+      "message": "Autostart proxy"
+   },
+   "btnTelegram": {
+      "message": "Use in Telegram"
+   },
+   "linkBack": {
+      "message": "Back"
+   },
+   "linkReview": {
+      "message": "Give feedback"
+   },
+   "linkSettings": {
+      "message": "Proxy settings"
+   },
+   "noInstalledButton": {
+      "message": "Add to Chrome"
+   },
+   "noInstalledTitle": {
+      "message": "To continue you need to install the add-on iNinja App"
+   },
+   "reviewMsg": {
+      "message": "Please, if you liked our extension you can give a review"
+   },
+   "settingsTitle": {
+      "message": "Proxy settings"
+   },
+   "useInOtherApps": {
+      "message": "Use in another application"
+   },
+   "whiteListDomains": {
+      "message": "White list domains"
+   }
+}

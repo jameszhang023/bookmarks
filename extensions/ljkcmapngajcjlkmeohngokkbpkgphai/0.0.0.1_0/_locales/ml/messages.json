@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "വാങ്ങാൻ"
+   },
+   "connect_button_text": {
+      "message": "ബന്ധിപ്പിക്കുക"
+   },
+   "connecting_title": {
+      "message": "ബന്ധിപ്പിക്കുന്നു ..."
+   },
+   "connection_error": {
+      "message": "കണക്ഷൻ തകരാറ്. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+   },
+   "country_select_page_button": {
+      "message": "രാജ്യം തിരഞ്ഞെടുക്കുക"
+   },
+   "day": {
+      "message": "ദിവസം"
+   },
+   "disconnect_button_text": {
+      "message": "വിച്ഛേദിക്കുക"
+   },
+   "extension_description": {
+      "message": "ഓസ്മോവിപിഎൻ || എളുപ്പത്തിലുള്ള ഉപയോഗവും സജീവമാക്കലല്ല, പരിശോധനയല്ല. പരിധിയില്ലാത്തതും എല്ലാ സമയവും സ! ജന്യവുമാണ്!"
+   },
+   "extension_name": {
+      "message": "സ and ജന്യവും വേഗതയേറിയതുമായ VPN || ഓസ്മോവിപിഎൻ"
+   },
+   "ip_address_text": {
+      "message": "നിങ്ങളുടെ ഐപി"
+   },
+   "last_connected_servers_title": {
+      "message": "അവസാനം ബന്ധിപ്പിച്ച സെർവറുകൾ"
+   },
+   "location_error": {
+      "message": "കണക്ഷൻ തകരാറ്. മറ്റൊരു സ്ഥാനം വീണ്ടും ശ്രമിക്കുക."
+   },
+   "network_problem_decription": {
+      "message": "നിങ്ങളുടെ ഇന്റർനെറ്റ് കണക്ഷൻ പരിശോധിക്കുക."
+   },
+   "network_problem_title": {
+      "message": "പിശക്! നെറ്റ്‌വർക്ക് പ്രശ്‌നം"
+   },
+   "please_wait_text": {
+      "message": "കാത്തിരിക്കൂ..."
+   },
+   "remaing_time": {
+      "message": "ശേഷിക്കുന്ന സമയം"
+   },
+   "select": {
+      "message": "തിരഞ്ഞെടുക്കുക"
+   },
+   "selected": {
+      "message": "തിരഞ്ഞെടുത്തു"
+   },
+   "settings_title": {
+      "message": "ക്രമീകരണങ്ങൾ"
+   },
+   "status_connected_description_text": {
+      "message": "പരിരക്ഷിത കണക്ഷൻ!"
+   },
+   "status_connected_text": {
+      "message": "ബന്ധിപ്പിച്ചു"
+   },
+   "status_disconnected_description_text": {
+      "message": "സുരക്ഷിതമല്ലാത്ത കണക്ഷൻ!"
+   },
+   "status_disconnected_text": {
+      "message": "വിച്ഛേദിച്ചു"
+   }
+}

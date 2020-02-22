@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "ซื้อ"
+   },
+   "connect_button_text": {
+      "message": "ต่อ"
+   },
+   "connecting_title": {
+      "message": "เชื่อมต่อ ..."
+   },
+   "connection_error": {
+      "message": "การเชื่อมต่อล้มเหลว. กรุณาลองอีกครั้ง."
+   },
+   "country_select_page_button": {
+      "message": "เลือกประเทศ"
+   },
+   "day": {
+      "message": "วัน"
+   },
+   "disconnect_button_text": {
+      "message": "ปลด"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || ใช้งานง่ายและไม่เปิดใช้งานไม่ใช่การตรวจสอบ ไม่ จำกัด และฟรีทุกครั้ง!"
+   },
+   "extension_name": {
+      "message": "ฟรีและ VPN ที่เร็วที่สุด || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "IP ของคุณ"
+   },
+   "last_connected_servers_title": {
+      "message": "เซิร์ฟเวอร์ที่เชื่อมต่อล่าสุด"
+   },
+   "location_error": {
+      "message": "การเชื่อมต่อล้มเหลว. กรุณาลองอีกครั้งสถานที่อื่น"
+   },
+   "network_problem_decription": {
+      "message": "โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ"
+   },
+   "network_problem_title": {
+      "message": "ข้อผิดพลาด! ปัญหาเครือข่าย"
+   },
+   "please_wait_text": {
+      "message": "โปรดรอ..."
+   },
+   "remaing_time": {
+      "message": "เวลา Remaing"
+   },
+   "select": {
+      "message": "เลือก"
+   },
+   "selected": {
+      "message": "เลือก"
+   },
+   "settings_title": {
+      "message": "การตั้งค่า"
+   },
+   "status_connected_description_text": {
+      "message": "การเชื่อมต่อที่ได้รับการป้องกัน!"
+   },
+   "status_connected_text": {
+      "message": "เกี่ยวข้อง"
+   },
+   "status_disconnected_description_text": {
+      "message": "การเชื่อมต่อที่ไม่มีการป้องกัน!"
+   },
+   "status_disconnected_text": {
+      "message": "ตัดการเชื่อมต่อ"
+   }
+}

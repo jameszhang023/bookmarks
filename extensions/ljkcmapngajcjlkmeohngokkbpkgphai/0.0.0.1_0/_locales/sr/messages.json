@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Буи"
+   },
+   "connect_button_text": {
+      "message": "Повежи"
+   },
+   "connecting_title": {
+      "message": "Повезивање ..."
+   },
+   "connection_error": {
+      "message": "Грешка везе. Молим вас, покушајте поново."
+   },
+   "country_select_page_button": {
+      "message": "Одабери земљу"
+   },
+   "day": {
+      "message": "Дан"
+   },
+   "disconnect_button_text": {
+      "message": "Дисцоннецт"
+   },
+   "extension_description": {
+      "message": "ОзмоВПН || Једноставно коришћење, а не активација, не верификација. Неограничено и сваки пут БЕСПЛАТНО!"
+   },
+   "extension_name": {
+      "message": "Бесплатно и Најбржи ВПН || ОзмоВПН"
+   },
+   "ip_address_text": {
+      "message": "Иоур ИП"
+   },
+   "last_connected_servers_title": {
+      "message": "Последњи повезани сервери"
+   },
+   "location_error": {
+      "message": "Грешка везе. Плеасе Три Агаин Анотхер Лоцатион."
+   },
+   "network_problem_decription": {
+      "message": "Проверите интернет везу."
+   },
+   "network_problem_title": {
+      "message": "Грешка! Проблем мрежа"
+   },
+   "please_wait_text": {
+      "message": "Сачекајте..."
+   },
+   "remaing_time": {
+      "message": "Ремаинг Тиме"
+   },
+   "select": {
+      "message": "Изаберите"
+   },
+   "selected": {
+      "message": "Изабрано"
+   },
+   "settings_title": {
+      "message": "Подешавања"
+   },
+   "status_connected_description_text": {
+      "message": "Протецтед Цоннецтион!"
+   },
+   "status_connected_text": {
+      "message": "Повезан"
+   },
+   "status_disconnected_description_text": {
+      "message": "Незаштићена веза!"
+   },
+   "status_disconnected_text": {
+      "message": "Дисцоннецтед"
+   }
+}

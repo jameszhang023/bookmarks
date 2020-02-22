@@ -1,0 +1,106 @@
+{
+   "app": {
+      "icon_color": "#1E2759",
+      "launch": {
+         "web_url": "https://community.algolia.com/"
+      },
+      "linked_icons": [ {
+         "size": 16,
+         "url": "https://community.algolia.com/img/icons/favicon-16x16-9fbbb96908.png"
+      }, {
+         "size": 32,
+         "url": "https://community.algolia.com/img/icons/favicon-32x32.png"
+      }, {
+         "size": 36,
+         "url": "https://community.algolia.com/img/icons/android-icon-36x36-c8f313c1e7.png"
+      }, {
+         "size": 48,
+         "url": "https://community.algolia.com/img/icons/android-icon-48x48.png"
+      }, {
+         "size": 57,
+         "url": "https://community.algolia.com/img/icons/apple-icon-57x57-fb5be58fb0.png"
+      }, {
+         "size": 60,
+         "url": "https://community.algolia.com/img/icons/apple-icon-60x60-0ed63a7ff6.png"
+      }, {
+         "size": 64,
+         "url": "https://community.algolia.com/img/icons/ms-icon-70x70.png"
+      }, {
+         "size": 70,
+         "url": "https://community.algolia.com/img/icons/ms-icon-70x70-36821adbd7.png"
+      }, {
+         "size": 72,
+         "url": "https://community.algolia.com/img/icons/android-icon-72x72-e5175e840f.png"
+      }, {
+         "size": 76,
+         "url": "https://community.algolia.com/img/icons/apple-icon-76x76-f301d477bc.png"
+      }, {
+         "size": 96,
+         "url": "https://community.algolia.com/img/icons/favicon-96x96.png"
+      }, {
+         "size": 114,
+         "url": "https://community.algolia.com/img/icons/apple-icon-114x114-92258fb17a.png"
+      }, {
+         "size": 120,
+         "url": "https://community.algolia.com/img/icons/apple-icon-120x120-bd7f0573dc.png"
+      }, {
+         "size": 128,
+         "url": "https://community.algolia.com/img/icons/ms-icon-144x144.png"
+      }, {
+         "size": 144,
+         "url": "https://community.algolia.com/img/icons/android-icon-144x144-d2df34d6db.png"
+      }, {
+         "size": 150,
+         "url": "https://community.algolia.com/img/icons/ms-icon-150x150-f4b96a1f5c.png"
+      }, {
+         "size": 152,
+         "url": "https://community.algolia.com/img/icons/apple-icon-152x152-fdc53c36e9.png"
+      }, {
+         "size": 180,
+         "url": "https://community.algolia.com/img/icons/apple-icon-180x180-56f3f53650.png"
+      }, {
+         "size": 192,
+         "url": "https://community.algolia.com/img/icons/android-icon-192x192-6f28c09885.png"
+      }, {
+         "size": 256,
+         "url": "https://community.algolia.com/img/icons/ms-icon-310x310.png"
+      }, {
+         "size": 310,
+         "url": "https://community.algolia.com/img/icons/ms-icon-310x310-1ac8a62b99.png"
+      } ],
+      "theme_color": "rgba(0,174,255,1)"
+   },
+   "description": "",
+   "icons": {
+      "114": "icons/114.png",
+      "120": "icons/120.png",
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "150": "icons/150.png",
+      "152": "icons/152.png",
+      "16": "icons/16.png",
+      "180": "icons/180.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "310": "icons/310.png",
+      "32": "icons/32.png",
+      "36": "icons/36.png",
+      "48": "icons/48.png",
+      "57": "icons/57.png",
+      "60": "icons/60.png",
+      "64": "icons/64.png",
+      "70": "icons/70.png",
+      "72": "icons/72.png",
+      "76": "icons/76.png",
+      "96": "icons/96.png"
+   },
+   "key": "loHkGe7SP+23RiklzObj8Uwp3NmarYQiCaEM/vdA0ro=",
+   "name": "Algolia Community",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://community.algolia.com/*" ],
+         "title": "Algolia Community"
+      }
+   },
+   "version": "2019.8.29.3283"
+}

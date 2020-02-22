@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Nakup"
+   },
+   "connect_button_text": {
+      "message": "Poveži"
+   },
+   "connecting_title": {
+      "message": "Povezovanje ..."
+   },
+   "connection_error": {
+      "message": "Napaka v povezavi. Prosim poskusite ponovno."
+   },
+   "country_select_page_button": {
+      "message": "Izberi državo"
+   },
+   "day": {
+      "message": "Dan"
+   },
+   "disconnect_button_text": {
+      "message": "Prekini"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Enostavna uporaba in ne aktivacija, ne preverjanje. Neomejeno in vsakič, ko je BREZPLAČNO!"
+   },
+   "extension_name": {
+      "message": "Prosti in najhitrejši VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Vaš IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Zadnji povezani strežniki"
+   },
+   "location_error": {
+      "message": "Napaka v povezavi. Poskusite še eno lokacijo."
+   },
+   "network_problem_decription": {
+      "message": "Preverite internetno povezavo."
+   },
+   "network_problem_title": {
+      "message": "Napaka! Težava z omrežjem"
+   },
+   "please_wait_text": {
+      "message": "Prosim počakaj..."
+   },
+   "remaing_time": {
+      "message": "Čas ponovitve"
+   },
+   "select": {
+      "message": "Izberite"
+   },
+   "selected": {
+      "message": "Izbrano"
+   },
+   "settings_title": {
+      "message": "Nastavitve"
+   },
+   "status_connected_description_text": {
+      "message": "Zaščitena povezava!"
+   },
+   "status_connected_text": {
+      "message": "Povezan"
+   },
+   "status_disconnected_description_text": {
+      "message": "Nezaščitena povezava!"
+   },
+   "status_disconnected_text": {
+      "message": "Prekinjena"
+   }
+}

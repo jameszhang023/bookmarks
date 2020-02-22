@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Pirkti"
+   },
+   "connect_button_text": {
+      "message": "Prisijungti"
+   },
+   "connecting_title": {
+      "message": "Prisijungimas ..."
+   },
+   "connection_error": {
+      "message": "Ryšio klaida. Prašau, pabandykite dar kartą."
+   },
+   "country_select_page_button": {
+      "message": "Pasirinkite šalį"
+   },
+   "day": {
+      "message": "Diena"
+   },
+   "disconnect_button_text": {
+      "message": "Atsijungti"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Lengvas naudojimas, o ne aktyvinimas, o ne patikrinimas. Neribotas ir kiekvieną kartą NEMOKAMAI!"
+   },
+   "extension_name": {
+      "message": "Laisvas ir sparčiausias VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Jūsų IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Paskutiniai prijungti serveriai"
+   },
+   "location_error": {
+      "message": "Ryšio klaida. Bandykite dar kartą kitą vietą."
+   },
+   "network_problem_decription": {
+      "message": "Patikrinkite interneto ryšį."
+   },
+   "network_problem_title": {
+      "message": "Klaida! Tinklo problema"
+   },
+   "please_wait_text": {
+      "message": "Prašau palauk..."
+   },
+   "remaing_time": {
+      "message": "Atnaujinimo laikas"
+   },
+   "select": {
+      "message": "Pasirinkite"
+   },
+   "selected": {
+      "message": "Pasirinkta"
+   },
+   "settings_title": {
+      "message": "Nustatymai"
+   },
+   "status_connected_description_text": {
+      "message": "Apsaugotas ryšys!"
+   },
+   "status_connected_text": {
+      "message": "Prisijungta"
+   },
+   "status_disconnected_description_text": {
+      "message": "Nepalaikomas ryšys!"
+   },
+   "status_disconnected_text": {
+      "message": "Atjungta"
+   }
+}

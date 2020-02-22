@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "কেনা"
+   },
+   "connect_button_text": {
+      "message": "সংযোগ করা"
+   },
+   "connecting_title": {
+      "message": "সংযুক্ত হচ্ছে ..."
+   },
+   "connection_error": {
+      "message": "সংযোগ ত্রুটি. অনুগ্রহপূর্বক আবার চেষ্টা করুন."
+   },
+   "country_select_page_button": {
+      "message": "দেশ নির্বাচন করুন"
+   },
+   "day": {
+      "message": "দিন"
+   },
+   "disconnect_button_text": {
+      "message": "বিযুক্ত করা"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || সহজ ব্যবহার এবং সক্রিয়করণ, যাচাই না। সীমাহীন এবং প্রত্যেক সময় বিনামূল্যে!"
+   },
+   "extension_name": {
+      "message": "ফ্রি এবং দ্রুততম ভিপিএন || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "আপনার আইপি"
+   },
+   "last_connected_servers_title": {
+      "message": "সর্বশেষ সংযুক্ত সার্ভার"
+   },
+   "location_error": {
+      "message": "সংযোগ ত্রুটি. আবার অন্য জায়গা চেষ্টা করুন।"
+   },
+   "network_problem_decription": {
+      "message": "আপনার ইন্টারনেট সংযোগ চেক করুন।"
+   },
+   "network_problem_title": {
+      "message": "ত্রুটি! নেটওয়ার্ক সমস্যা"
+   },
+   "please_wait_text": {
+      "message": "অনুগ্রহপূর্বক অপেক্ষা করুন..."
+   },
+   "remaing_time": {
+      "message": "রিমাইং সময়"
+   },
+   "select": {
+      "message": "নির্বাচন করা"
+   },
+   "selected": {
+      "message": "নির্বাচিত"
+   },
+   "settings_title": {
+      "message": "সেটিংস"
+   },
+   "status_connected_description_text": {
+      "message": "সুরক্ষিত সংযোগ!"
+   },
+   "status_connected_text": {
+      "message": "সংযুক্ত"
+   },
+   "status_disconnected_description_text": {
+      "message": "অসুরক্ষিত সংযোগ!"
+   },
+   "status_disconnected_text": {
+      "message": "অসংযুক্ত"
+   }
+}

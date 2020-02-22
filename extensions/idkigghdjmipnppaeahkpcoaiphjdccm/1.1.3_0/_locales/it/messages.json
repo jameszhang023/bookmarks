@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the extension.",
+      "message": "Scarica APK da Google Play Store e APKPure (Ultima Versione)"
+   },
+   "appName": {
+      "description": "The name of the extension.",
+      "message": "APK Downloader per Google Play Store™"
+   }
+}

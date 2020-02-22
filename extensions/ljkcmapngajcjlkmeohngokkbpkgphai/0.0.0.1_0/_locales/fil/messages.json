@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Bumili"
+   },
+   "connect_button_text": {
+      "message": "Ikonekta"
+   },
+   "connecting_title": {
+      "message": "Kumokonekta ..."
+   },
+   "connection_error": {
+      "message": "Error sa Koneksyon. Ulitin mo ulit."
+   },
+   "country_select_page_button": {
+      "message": "Piliin ang bansa"
+   },
+   "day": {
+      "message": "Araw"
+   },
+   "disconnect_button_text": {
+      "message": "Idiskonekta"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Madaling gamitin at hindi activation, hindi pagpapatunay. Walang limitasyong at tuwing LIBRE!"
+   },
+   "extension_name": {
+      "message": "Libre at Ang pinakamabilis na VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Ang iyong IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Mga Huling Connected Server"
+   },
+   "location_error": {
+      "message": "Error sa Koneksyon. Pakisubukang Muli Ibang Lokasyon."
+   },
+   "network_problem_decription": {
+      "message": "Mangyaring suriin ang iyong koneksyon sa internet."
+   },
+   "network_problem_title": {
+      "message": "Error! Problema sa Network"
+   },
+   "please_wait_text": {
+      "message": "Mangyaring Maghintay ..."
+   },
+   "remaing_time": {
+      "message": "Remaing Time"
+   },
+   "select": {
+      "message": "Piliin ang"
+   },
+   "selected": {
+      "message": "Napili"
+   },
+   "settings_title": {
+      "message": "Mga Setting"
+   },
+   "status_connected_description_text": {
+      "message": "Protektadong Koneksyon!"
+   },
+   "status_connected_text": {
+      "message": "Nakakonekta"
+   },
+   "status_disconnected_description_text": {
+      "message": "Walang Protektadong Koneksyon!"
+   },
+   "status_disconnected_text": {
+      "message": "Nakakonekta"
+   }
+}

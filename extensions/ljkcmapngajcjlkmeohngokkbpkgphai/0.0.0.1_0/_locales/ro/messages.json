@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "A cumpara"
+   },
+   "connect_button_text": {
+      "message": "Conectați"
+   },
+   "connecting_title": {
+      "message": "Conectarea ..."
+   },
+   "connection_error": {
+      "message": "Eroare de conexiune. Vă rugăm să încercați din nou."
+   },
+   "country_select_page_button": {
+      "message": "Selecteaza tara"
+   },
+   "day": {
+      "message": "Zi"
+   },
+   "disconnect_button_text": {
+      "message": "Deconecta"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Utilizare ușoară și nu activare, nu verificare. Nelimitat și de fiecare dată GRATUIT!"
+   },
+   "extension_name": {
+      "message": "Gratuit și cel mai rapid VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "IP-ul dvs."
+   },
+   "last_connected_servers_title": {
+      "message": "Ultimele servere conectate"
+   },
+   "location_error": {
+      "message": "Eroare de conexiune. Încercați din nou o altă locație."
+   },
+   "network_problem_decription": {
+      "message": "Verificați conexiunea la internet."
+   },
+   "network_problem_title": {
+      "message": "Eroare! Problemă de rețea"
+   },
+   "please_wait_text": {
+      "message": "Te rog asteapta..."
+   },
+   "remaing_time": {
+      "message": "Timpul rămas"
+   },
+   "select": {
+      "message": "Selectați"
+   },
+   "selected": {
+      "message": "Selectat"
+   },
+   "settings_title": {
+      "message": "Setări"
+   },
+   "status_connected_description_text": {
+      "message": "Conexiune protejată!"
+   },
+   "status_connected_text": {
+      "message": "Conectat"
+   },
+   "status_disconnected_description_text": {
+      "message": "Conexiune neprotejată!"
+   },
+   "status_disconnected_text": {
+      "message": "debreiat"
+   }
+}

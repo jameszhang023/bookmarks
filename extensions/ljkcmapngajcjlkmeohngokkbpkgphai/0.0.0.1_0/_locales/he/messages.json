@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "קנה"
+   },
+   "connect_button_text": {
+      "message": "התחבר"
+   },
+   "connecting_title": {
+      "message": "מתחבר ..."
+   },
+   "connection_error": {
+      "message": "בעיית חיבור. בבקשה נסה שוב."
+   },
+   "country_select_page_button": {
+      "message": "בחר מדינה"
+   },
+   "day": {
+      "message": "יום"
+   },
+   "disconnect_button_text": {
+      "message": "להתנתק"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || שימוש קל ולא הפעלה, לא אימות. ללא הגבלה בכל פעם בחינם!"
+   },
+   "extension_name": {
+      "message": "חינם VPN המהיר ביותר OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "כתובת ה- IP שלך"
+   },
+   "last_connected_servers_title": {
+      "message": "שרתים מחוברים אחרונה"
+   },
+   "location_error": {
+      "message": "בעיית חיבור. נסה שוב מיקום נוסף."
+   },
+   "network_problem_decription": {
+      "message": "בדוק את חיבור האינטרנט שלך."
+   },
+   "network_problem_title": {
+      "message": "שגיאה! בעיית רשת"
+   },
+   "please_wait_text": {
+      "message": "המתן בבקשה..."
+   },
+   "remaing_time": {
+      "message": "זמן"
+   },
+   "select": {
+      "message": "בחר"
+   },
+   "selected": {
+      "message": "נבחר"
+   },
+   "settings_title": {
+      "message": "הגדרות"
+   },
+   "status_connected_description_text": {
+      "message": "חיבור מוגן!"
+   },
+   "status_connected_text": {
+      "message": "מחובר"
+   },
+   "status_disconnected_description_text": {
+      "message": "חיבור לא מוגן!"
+   },
+   "status_disconnected_text": {
+      "message": "מנותק"
+   }
+}

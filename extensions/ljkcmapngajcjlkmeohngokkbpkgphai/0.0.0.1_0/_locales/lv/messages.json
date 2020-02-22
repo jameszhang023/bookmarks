@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Pirkt"
+   },
+   "connect_button_text": {
+      "message": "Savienojiet"
+   },
+   "connecting_title": {
+      "message": "Savieno ..."
+   },
+   "connection_error": {
+      "message": "Savienojuma kļūda. Lūdzu mēģiniet vēlreiz."
+   },
+   "country_select_page_button": {
+      "message": "Izvēlies valsti"
+   },
+   "day": {
+      "message": "Diena"
+   },
+   "disconnect_button_text": {
+      "message": "Atvienot"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Vienkārša lietošana, nevis aktivizēšana, nevis verifikācija. Neierobežots un katru reizi BEZMAKSAS!"
+   },
+   "extension_name": {
+      "message": "Bezmaksas un ātrākais VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Jūsu IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Pēdējie savienotie serveri"
+   },
+   "location_error": {
+      "message": "Savienojuma kļūda. Lūdzu, mēģiniet vēlreiz citu atrašanās vietu."
+   },
+   "network_problem_decription": {
+      "message": "Lūdzu, pārbaudiet interneta savienojumu."
+   },
+   "network_problem_title": {
+      "message": "Kļūda! Tīkla problēma"
+   },
+   "please_wait_text": {
+      "message": "Lūdzu uzgaidiet..."
+   },
+   "remaing_time": {
+      "message": "Atjaunošanas laiks"
+   },
+   "select": {
+      "message": "Izvēlieties"
+   },
+   "selected": {
+      "message": "Atlasīts"
+   },
+   "settings_title": {
+      "message": "Iestatījumi"
+   },
+   "status_connected_description_text": {
+      "message": "Aizsargāts savienojums!"
+   },
+   "status_connected_text": {
+      "message": "Savienots"
+   },
+   "status_disconnected_description_text": {
+      "message": "Neaizsargāts savienojums!"
+   },
+   "status_disconnected_text": {
+      "message": "Atvienots"
+   }
+}

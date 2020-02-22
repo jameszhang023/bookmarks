@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "購買"
+   },
+   "connect_button_text": {
+      "message": "連"
+   },
+   "connecting_title": {
+      "message": "連接..."
+   },
+   "connection_error": {
+      "message": "連接錯誤。請再試一次。"
+   },
+   "country_select_page_button": {
+      "message": "選擇國家"
+   },
+   "day": {
+      "message": "天"
+   },
+   "disconnect_button_text": {
+      "message": "斷開"
+   },
+   "extension_description": {
+      "message": "OzmoVPN ||易於使用而不是激活，不需要驗證。無限制，每次都免費！"
+   },
+   "extension_name": {
+      "message": "免費和最快的VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "你的IP"
+   },
+   "last_connected_servers_title": {
+      "message": "最後連接的服務器"
+   },
+   "location_error": {
+      "message": "連接錯誤。請再試一次。"
+   },
+   "network_problem_decription": {
+      "message": "請檢查您的互聯網連接。"
+   },
+   "network_problem_title": {
+      "message": "錯誤！網絡問題"
+   },
+   "please_wait_text": {
+      "message": "請耐心等待..."
+   },
+   "remaing_time": {
+      "message": "剩下的時間"
+   },
+   "select": {
+      "message": "選擇"
+   },
+   "selected": {
+      "message": "選"
+   },
+   "settings_title": {
+      "message": "設置"
+   },
+   "status_connected_description_text": {
+      "message": "受保護的連接！"
+   },
+   "status_connected_text": {
+      "message": "連接的"
+   },
+   "status_disconnected_description_text": {
+      "message": "無保護的連接！"
+   },
+   "status_disconnected_text": {
+      "message": "斷開的"
+   }
+}

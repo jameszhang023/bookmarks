@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "కొనుగోలు"
+   },
+   "connect_button_text": {
+      "message": "కనెక్ట్"
+   },
+   "connecting_title": {
+      "message": "కనెక్ట్ అవుతోంది ..."
+   },
+   "connection_error": {
+      "message": "కనెక్షన్ లోపం. దయచేసి మళ్ళీ ప్రయత్నించండి."
+   },
+   "country_select_page_button": {
+      "message": "దేశాన్ని ఎంచుకోండి"
+   },
+   "day": {
+      "message": "డే"
+   },
+   "disconnect_button_text": {
+      "message": "డిస్కనెక్ట్"
+   },
+   "extension_description": {
+      "message": "ఓజ్మోవిపిఎన్ || సులువు ఉపయోగం మరియు క్రియాశీలత కాదు, ధృవీకరణ కాదు. అపరిమిత మరియు ప్రతిసారీ ఉచితం!"
+   },
+   "extension_name": {
+      "message": "ఉచిత మరియు వేగవంతమైన VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "మీ IP"
+   },
+   "last_connected_servers_title": {
+      "message": "చివరిగా కనెక్ట్ చేయబడిన సర్వర్లు"
+   },
+   "location_error": {
+      "message": "కనెక్షన్ లోపం. దయచేసి మరో ప్రదేశానికి ప్రయత్నించండి."
+   },
+   "network_problem_decription": {
+      "message": "దయచేసి మీ ఇంటర్నెట్ కనెక్షన్‌ను తనిఖీ చేయండి."
+   },
+   "network_problem_title": {
+      "message": "లోపం! నెట్‌వర్క్ సమస్య"
+   },
+   "please_wait_text": {
+      "message": "దయచేసి వేచి ఉండండి ..."
+   },
+   "remaing_time": {
+      "message": "సమయం మిగిలి ఉంది"
+   },
+   "select": {
+      "message": "ఎంచుకోండి"
+   },
+   "selected": {
+      "message": "ఎంచుకున్న"
+   },
+   "settings_title": {
+      "message": "సెట్టింగులు"
+   },
+   "status_connected_description_text": {
+      "message": "రక్షిత కనెక్షన్!"
+   },
+   "status_connected_text": {
+      "message": "కనెక్ట్"
+   },
+   "status_disconnected_description_text": {
+      "message": "అసురక్షిత కనెక్షన్!"
+   },
+   "status_disconnected_text": {
+      "message": "డిస్కనెక్ట్"
+   }
+}

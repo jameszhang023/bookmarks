@@ -1,0 +1,47 @@
+{
+   "appDesc": {
+      "message": "امتداد Proxy / VPN سريع ومثير. iNinja VPN هي تقنية منع حجب الوكيل موجودة هنا لتتخذ الخصوصية على الإنترنت."
+   },
+   "appDisabledButton": {
+      "message": "Enabled App"
+   },
+   "appDisabledTitle": {
+      "message": "To continue you must turn enabled iNinja App"
+   },
+   "appName": {
+      "message": "الوكيل المجاني VPN لإلغاء حظر أي مواقع"
+   },
+   "autostartProxy": {
+      "message": "Autostart proxy"
+   },
+   "btnTelegram": {
+      "message": "Use in Telegram"
+   },
+   "linkBack": {
+      "message": "Back"
+   },
+   "linkReview": {
+      "message": "Give feedback"
+   },
+   "linkSettings": {
+      "message": "Proxy settings"
+   },
+   "noInstalledButton": {
+      "message": "Add to Chrome"
+   },
+   "noInstalledTitle": {
+      "message": "To continue you need to install the add-on iNinja App"
+   },
+   "reviewMsg": {
+      "message": "Please, if you liked our extension you can give a review"
+   },
+   "settingsTitle": {
+      "message": "Proxy settings"
+   },
+   "useInOtherApps": {
+      "message": "Use in another application"
+   },
+   "whiteListDomains": {
+      "message": "White list domains"
+   }
+}

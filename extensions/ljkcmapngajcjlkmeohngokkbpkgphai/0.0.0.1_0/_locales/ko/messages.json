@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "사다"
+   },
+   "connect_button_text": {
+      "message": "잇다"
+   },
+   "connecting_title": {
+      "message": "연결 중 ..."
+   },
+   "connection_error": {
+      "message": "연결 오류. 다시 시도하십시오."
+   },
+   "country_select_page_button": {
+      "message": "국가 선택"
+   },
+   "day": {
+      "message": "일"
+   },
+   "disconnect_button_text": {
+      "message": "연결 끊기"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || 사용이 아닌 활성화 및 검증이 아닙니다. 무제한 무료!"
+   },
+   "extension_name": {
+      "message": "무료 및 가장 빠른 VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "귀하의 지적 재산권"
+   },
+   "last_connected_servers_title": {
+      "message": "마지막으로 연결된 서버"
+   },
+   "location_error": {
+      "message": "연결 오류. 다른 위치로 다시 시도하십시오."
+   },
+   "network_problem_decription": {
+      "message": "인터넷 연결을 확인하십시오."
+   },
+   "network_problem_title": {
+      "message": "오류! 네트워크 문제"
+   },
+   "please_wait_text": {
+      "message": "기다려주십시오 ..."
+   },
+   "remaing_time": {
+      "message": "재시험 시간"
+   },
+   "select": {
+      "message": "고르다"
+   },
+   "selected": {
+      "message": "선택된"
+   },
+   "settings_title": {
+      "message": "설정"
+   },
+   "status_connected_description_text": {
+      "message": "보호 된 연결!"
+   },
+   "status_connected_text": {
+      "message": "연결됨"
+   },
+   "status_disconnected_description_text": {
+      "message": "보호되지 않은 연결!"
+   },
+   "status_disconnected_text": {
+      "message": "연결이 끊어짐"
+   }
+}

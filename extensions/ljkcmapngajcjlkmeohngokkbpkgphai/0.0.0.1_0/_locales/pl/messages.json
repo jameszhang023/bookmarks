@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Kupować"
+   },
+   "connect_button_text": {
+      "message": "Połączyć"
+   },
+   "connecting_title": {
+      "message": "Złączony..."
+   },
+   "connection_error": {
+      "message": "Błąd połączenia. Proszę spróbuj ponownie."
+   },
+   "country_select_page_button": {
+      "message": "Wybierz kraj"
+   },
+   "day": {
+      "message": "Dzień"
+   },
+   "disconnect_button_text": {
+      "message": "Rozłączyć się"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Łatwe korzystanie, a nie aktywacja, a nie weryfikacja. Nieograniczony i za każdym razem ZA DARMO!"
+   },
+   "extension_name": {
+      "message": "Bezpłatne i najszybsze VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Twoje IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Ostatnie połączone serwery"
+   },
+   "location_error": {
+      "message": "Błąd połączenia. Spróbuj ponownie w innej lokalizacji."
+   },
+   "network_problem_decription": {
+      "message": "Proszę sprawdzić swoje połączenie z internetem."
+   },
+   "network_problem_title": {
+      "message": "Błąd! Problem z siecią"
+   },
+   "please_wait_text": {
+      "message": "Proszę czekać..."
+   },
+   "remaing_time": {
+      "message": "Remaing Time"
+   },
+   "select": {
+      "message": "Wybierz"
+   },
+   "selected": {
+      "message": "Wybrany"
+   },
+   "settings_title": {
+      "message": "Ustawienia"
+   },
+   "status_connected_description_text": {
+      "message": "Chronione połączenie!"
+   },
+   "status_connected_text": {
+      "message": "Połączony"
+   },
+   "status_disconnected_description_text": {
+      "message": "Niezabezpieczone połączenie!"
+   },
+   "status_disconnected_text": {
+      "message": "Niepowiązany"
+   }
+}

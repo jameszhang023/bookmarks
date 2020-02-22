@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Купити"
+   },
+   "connect_button_text": {
+      "message": "Підключення"
+   },
+   "connecting_title": {
+      "message": "Підключення ..."
+   },
+   "connection_error": {
+      "message": "Помилка з'єднання. Будь ласка спробуйте ще раз."
+   },
+   "country_select_page_button": {
+      "message": "Виберіть країну"
+   },
+   "day": {
+      "message": "День"
+   },
+   "disconnect_button_text": {
+      "message": "Від'єднати"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Легке використання, а не активація, а не перевірка. Необмежений і кожен раз БЕЗКОШТОВНО!"
+   },
+   "extension_name": {
+      "message": "Вільний і найшвидший VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Ваш IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Останні підключені сервери"
+   },
+   "location_error": {
+      "message": "Помилка з'єднання. Спробуйте знову інше місце."
+   },
+   "network_problem_decription": {
+      "message": "Перевірте підключення до Інтернету."
+   },
+   "network_problem_title": {
+      "message": "Помилка! Проблема мережі"
+   },
+   "please_wait_text": {
+      "message": "Зачекайте ..."
+   },
+   "remaing_time": {
+      "message": "Час, що відбувається"
+   },
+   "select": {
+      "message": "Виберіть"
+   },
+   "selected": {
+      "message": "Вибрано"
+   },
+   "settings_title": {
+      "message": "Налаштування"
+   },
+   "status_connected_description_text": {
+      "message": "Захищене з'єднання!"
+   },
+   "status_connected_text": {
+      "message": "Підключено"
+   },
+   "status_disconnected_description_text": {
+      "message": "Незахищене з'єднання!"
+   },
+   "status_disconnected_text": {
+      "message": "Відключено"
+   }
+}

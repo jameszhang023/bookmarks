@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the extension.",
+      "message": "Скачать APK & OBB из Google Play Store и APKPure"
+   },
+   "appName": {
+      "description": "The name of the extension.",
+      "message": "APK Downloader для Google Play Store™"
+   }
+}

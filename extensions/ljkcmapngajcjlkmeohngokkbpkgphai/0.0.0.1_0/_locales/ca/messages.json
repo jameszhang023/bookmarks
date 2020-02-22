@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "Compra"
+   },
+   "connect_button_text": {
+      "message": "Connectar"
+   },
+   "connecting_title": {
+      "message": "Connexió ..."
+   },
+   "connection_error": {
+      "message": "Error de connexió. Siusplau torna-ho a provar."
+   },
+   "country_select_page_button": {
+      "message": "Selecciona país"
+   },
+   "day": {
+      "message": "Dia"
+   },
+   "disconnect_button_text": {
+      "message": "Desconnecta"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Ús fàcil i no activació, no verificació. Il·limitat i cada vegada GRATIS!"
+   },
+   "extension_name": {
+      "message": "Gratuït i el VPN més ràpid || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "La vostra IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Últims servidors connectats"
+   },
+   "location_error": {
+      "message": "Error de connexió. Torneu a provar una altra ubicació."
+   },
+   "network_problem_decription": {
+      "message": "Comproveu la vostra connexió a Internet."
+   },
+   "network_problem_title": {
+      "message": "Error! Problema de xarxa"
+   },
+   "please_wait_text": {
+      "message": "Espereu ..."
+   },
+   "remaing_time": {
+      "message": "Remaing Time"
+   },
+   "select": {
+      "message": "Seleccioneu"
+   },
+   "selected": {
+      "message": "Seleccionat"
+   },
+   "settings_title": {
+      "message": "Configuració"
+   },
+   "status_connected_description_text": {
+      "message": "Connexió protegida!"
+   },
+   "status_connected_text": {
+      "message": "Connectat"
+   },
+   "status_disconnected_description_text": {
+      "message": "Connexió sense protecció!"
+   },
+   "status_disconnected_text": {
+      "message": "Desconnectat"
+   }
+}

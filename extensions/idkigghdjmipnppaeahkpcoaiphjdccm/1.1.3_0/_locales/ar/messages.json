@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the extension.",
+      "message": "تنزيل APK & OBB من Google Play Store & APK Pure (أحدث نسخة)"
+   },
+   "appName": {
+      "description": "The name of the extension.",
+      "message": "APK Downloader for Google Play™"
+   }
+}

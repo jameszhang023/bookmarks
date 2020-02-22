@@ -1,0 +1,47 @@
+{
+   "appDesc": {
+      "message": "Extension Proxy / VPN rapide et gratuite. iNinja VPN est une technologie anti-blocage de proxy conçue pour protéger votre vie privée en ligne."
+   },
+   "appDisabledButton": {
+      "message": "Appli activée"
+   },
+   "appDisabledTitle": {
+      "message": "Pour continuer, vous devez activer l'appli iNinja"
+   },
+   "appName": {
+      "message": "Proxy VPN gratuit pour débloquer tous les sites"
+   },
+   "autostartProxy": {
+      "message": "Autostart proxy"
+   },
+   "btnTelegram": {
+      "message": "Use in Telegram"
+   },
+   "linkBack": {
+      "message": "Back"
+   },
+   "linkReview": {
+      "message": "Give feedback"
+   },
+   "linkSettings": {
+      "message": "Proxy settings"
+   },
+   "noInstalledButton": {
+      "message": "Ajouter à Chrome"
+   },
+   "noInstalledTitle": {
+      "message": "Pour continuer, vous devez installer l'extension de l'appli iNinja"
+   },
+   "reviewMsg": {
+      "message": "Please, if you liked our extension you can give a review"
+   },
+   "settingsTitle": {
+      "message": "Proxy settings"
+   },
+   "useInOtherApps": {
+      "message": "Use in another application"
+   },
+   "whiteListDomains": {
+      "message": "White list domains"
+   }
+}

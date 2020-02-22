@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the extension.",
+      "message": "Google Play Store और APKPure से APK & OBB डाउनलोड करें (नवीनतम संस्करण)"
+   },
+   "appName": {
+      "description": "The name of the extension.",
+      "message": "APK Downloader for Google Play Store™"
+   }
+}

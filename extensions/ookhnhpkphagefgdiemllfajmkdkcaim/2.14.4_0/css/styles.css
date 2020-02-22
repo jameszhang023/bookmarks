@@ -1,0 +1,273 @@
+html {
+  zoom: 1.2;
+}
+
+html, body {
+  width: 212px;
+  min-height: 225px;
+  max-height: 245px;
+  background: #FFFFFF;
+  overflow: hidden;
+  margin: auto;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+body {
+  margin: 0 10px;
+}
+
+p {
+  margin: 5px 0;
+  font-family: Hind, Roboto;
+  font-size: 10px;
+}
+
+.wrap {
+  width: 192px;
+  margin: 0;
+  overflow: hidden;
+}
+
+.app-loader {
+  display: none;
+}
+
+.loader-block {
+  padding-top: 25px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.logo {
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+.logo img {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+}
+
+.logo h2 {
+  display: inline-block;
+  position: relative;
+  top: -5px;
+  left: 5px;
+  margin-bottom: 5px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18.2161px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.form {
+  border: none;
+  background: #F4F4F4;
+  border-radius: 50px;
+  width: 192px;
+  height: 26px;
+  background: #F4F4F4;
+  border-radius: 50px;
+  padding: 7px 15px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 11px;
+  display: flex;
+  align-items: flex-end;
+  color: #000000;
+}
+
+select.form {
+  -webkit-appearance: none;
+  background-image: url(/img/select-arrow.png);
+  background-repeat: no-repeat;
+  background-position-x: 173px;
+  background-position-y: 11px;
+}
+
+#proxy-server {
+  margin-bottom: 10px;
+}
+
+#proxy-server:focus {
+  outline: none;
+}
+
+.switch-title {
+  font-family: Hind, Roboto;
+  font-size: 10px;
+  line-height: 20px;
+  font-weight: 700;
+  color: #000000;
+  text-align: right;
+}
+
+.switch-wrap {
+  padding-left: 0;
+}
+
+.footer {
+  width: 192px;
+  margin: 5px;
+  text-align: left;
+  padding-top: 10px;
+  border-top: 1px solid #E3E3E3;
+}
+
+a {
+  text-decoration: none;
+  font-family: Hind;
+  font-size: 10px;
+  line-height: 18px;
+  font-weight: 700;
+  text-decoration-line: underline;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.footer a {
+  display: block;
+  margin: 0 5px 0px;
+  position: relative;
+  left: 10px;
+}
+
+.footer a img {
+  position: absolute;
+  top: 5px;
+  left: -13px;
+}
+
+.dns-setting {
+  line-height: normal;
+  left: -2px !important;
+}
+
+.dns-setting span {
+  font-size: 8px;
+  line-height: 8px;
+}
+
+.loader {
+  margin: 5px 0;
+  height: 12.5px;
+}
+
+.loader img {
+  display: none;
+}
+
+.btn-telegram:hover {
+  text-decoration: none;
+}
+
+.other-apps-wrap {
+  margin-top: 60px;
+}
+
+.other-apps-wrap .logo {
+  margin-bottom: 15px !important;
+}
+
+.other-apps-wrap .col-xs-12 {
+  margin-bottom: 25px;
+}
+
+.settings-tab {
+  display: none;
+  position: absolute;
+  width: 192px;
+  border-top: 1px solid #E3E3E3;
+  top: 48px;
+  background: #fff;
+}
+
+.settings-tab .switch-title {
+  position: relative;
+  top: -5px;
+  margin-right: 5px;
+}
+
+#white-list {
+  overflow: scroll;
+}
+
+.tag-editor {
+  width: 192px;
+  height: 64px;
+  overflow: scroll;
+  z-index: 100;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+
+  background: #FFFFFF;
+  border: 1px solid #E3E3E3;
+  box-sizing: border-box;
+  border-radius: 6px;
+
+  font-family: Hind;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  color: #AAAAAA;
+  line-height: 15px;
+}
+
+.tag-editor::-webkit-scrollbar {
+  width: 5px;
+  height: 0px;
+}
+
+.tag-editor::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+.tag-editor::-webkit-scrollbar-thumb {
+  background: #ccc;
+}
+
+.params {
+  margin: 5px 0;
+}
+
+.params .col-xs-8 label {
+  line-height: 26px;
+}
+
+.settings-tab h5 {
+      margin: 15px 0 10px;
+  font-weight: 500;
+}
+
+.back-to-home {
+  position: absolute;
+  left: 12px;
+  top: 13px;
+  font-family: Hind;
+  font-size: 10px;
+  line-height: 16px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.back-to-home::before {
+  content: '';
+  background: url(/img/back.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 7px;
+  height: 13px;
+  left: -10px;
+  top: 1px;
+}

@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "купить"
+   },
+   "connect_button_text": {
+      "message": "соединять"
+   },
+   "connecting_title": {
+      "message": "Подключение ..."
+   },
+   "connection_error": {
+      "message": "Ошибка соединения. Пожалуйста, попробуйте снова."
+   },
+   "country_select_page_button": {
+      "message": "Выберите страну"
+   },
+   "day": {
+      "message": "День"
+   },
+   "disconnect_button_text": {
+      "message": "Отключить"
+   },
+   "extension_description": {
+      "message": "ОзмоВПН || Простота использования и не активация, не проверка. Неограниченно и каждый раз БЕСПЛАТНО!"
+   },
+   "extension_name": {
+      "message": "Бесплатный и самый быстрый VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Ваш IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Последние подключенные серверы"
+   },
+   "location_error": {
+      "message": "Ошибка соединения. Пожалуйста, попробуйте еще раз в другом месте."
+   },
+   "network_problem_decription": {
+      "message": "Пожалуйста, проверьте подключение к интернету."
+   },
+   "network_problem_title": {
+      "message": "Ошибка! Проблемы с сетью"
+   },
+   "please_wait_text": {
+      "message": "Подождите пожалуйста..."
+   },
+   "remaing_time": {
+      "message": "Оставшееся время"
+   },
+   "select": {
+      "message": "Выбрать"
+   },
+   "selected": {
+      "message": "выбранный"
+   },
+   "settings_title": {
+      "message": "настройки"
+   },
+   "status_connected_description_text": {
+      "message": "Защищенное соединение!"
+   },
+   "status_connected_text": {
+      "message": "Связано"
+   },
+   "status_disconnected_description_text": {
+      "message": "Незащищенное соединение!"
+   },
+   "status_disconnected_text": {
+      "message": "Отключенные"
+   }
+}

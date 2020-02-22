@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the extension.",
+      "message": "Download APK & OBB van Google Play Store en APKPure (Laatste Versie)"
+   },
+   "appName": {
+      "description": "The name of the extension.",
+      "message": "APK Downloader voor Google Play Store™"
+   }
+}

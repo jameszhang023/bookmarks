@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "வாங்க"
+   },
+   "connect_button_text": {
+      "message": "இணைக்கவும்"
+   },
+   "connecting_title": {
+      "message": "இணைக்கிறது ..."
+   },
+   "connection_error": {
+      "message": "இணைப்பு பிழை. தயவுசெய்து மீண்டும் முயற்சி செய்க."
+   },
+   "country_select_page_button": {
+      "message": "நாட்டினை தேர்வுசெய்"
+   },
+   "day": {
+      "message": "தினம்"
+   },
+   "disconnect_button_text": {
+      "message": "துண்டி"
+   },
+   "extension_description": {
+      "message": "ஓஸ்மோவிபிஎன் || எளிதான பயன்பாடு மற்றும் செயல்படுத்தல் அல்ல, சரிபார்ப்பு அல்ல. வரம்பற்ற மற்றும் ஒவ்வொரு முறையும் இலவசம்!"
+   },
+   "extension_name": {
+      "message": "இலவச மற்றும் வேகமான VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "உங்கள் ஐபி"
+   },
+   "last_connected_servers_title": {
+      "message": "கடைசியாக இணைக்கப்பட்ட சேவையகங்கள்"
+   },
+   "location_error": {
+      "message": "இணைப்பு பிழை. மற்றொரு இடத்தை மீண்டும் முயற்சிக்கவும்."
+   },
+   "network_problem_decription": {
+      "message": "உங்கள் இணைய இணைப்பை சரிபார்க்கவும்."
+   },
+   "network_problem_title": {
+      "message": "பிழை! வலையமைப்பு பிரச்சனை"
+   },
+   "please_wait_text": {
+      "message": "தயவுசெய்து காத்திருங்கள் ..."
+   },
+   "remaing_time": {
+      "message": "மீதமுள்ள நேரம்"
+   },
+   "select": {
+      "message": "தேர்வு"
+   },
+   "selected": {
+      "message": "தேர்ந்தெடுக்கப்பட்ட"
+   },
+   "settings_title": {
+      "message": "அமைப்புகள்"
+   },
+   "status_connected_description_text": {
+      "message": "பாதுகாக்கப்பட்ட இணைப்பு!"
+   },
+   "status_connected_text": {
+      "message": "இணைக்கப்பட்டது"
+   },
+   "status_disconnected_description_text": {
+      "message": "பாதுகாப்பற்ற இணைப்பு!"
+   },
+   "status_disconnected_text": {
+      "message": "துண்டிக்கப்பட்டது"
+   }
+}

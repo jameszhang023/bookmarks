@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "खरेदी करा"
+   },
+   "connect_button_text": {
+      "message": "कनेक्ट करा"
+   },
+   "connecting_title": {
+      "message": "कनेक्ट करीत आहे ..."
+   },
+   "connection_error": {
+      "message": "कनेक्शन त्रुटी कृपया पुन्हा प्रयत्न करा."
+   },
+   "country_select_page_button": {
+      "message": "देश निवडा"
+   },
+   "day": {
+      "message": "दिवस"
+   },
+   "disconnect_button_text": {
+      "message": "डिस्कनेक्ट करा"
+   },
+   "extension_description": {
+      "message": "ओझोमव्हीपीएन || सोपे वापर आणि सक्रियकरण नाही, सत्यापन नाही. अमर्यादित आणि प्रत्येक वेळी विनामूल्य!"
+   },
+   "extension_name": {
+      "message": "विनामूल्य आणि वेगवान व्हीपीएन || ओझोएमव्हीपीएन"
+   },
+   "ip_address_text": {
+      "message": "तुमचा आयपी"
+   },
+   "last_connected_servers_title": {
+      "message": "अंतिम कनेक्टेड सर्व्हर"
+   },
+   "location_error": {
+      "message": "कनेक्शन त्रुटी कृपया दुसर्या ठिकाणी पुन्हा प्रयत्न करा."
+   },
+   "network_problem_decription": {
+      "message": "कृपया आपले इंटरनेट कनेक्शन तपासा."
+   },
+   "network_problem_title": {
+      "message": "त्रुटी नेटवर्क समस्या"
+   },
+   "please_wait_text": {
+      "message": "कृपया थांबा..."
+   },
+   "remaing_time": {
+      "message": "रीमिंग वेळ"
+   },
+   "select": {
+      "message": "निवडा"
+   },
+   "selected": {
+      "message": "निवडले"
+   },
+   "settings_title": {
+      "message": "सेटिंग्ज"
+   },
+   "status_connected_description_text": {
+      "message": "संरक्षित कनेक्शन!"
+   },
+   "status_connected_text": {
+      "message": "जोडलेले"
+   },
+   "status_disconnected_description_text": {
+      "message": "असुरक्षित कनेक्शन!"
+   },
+   "status_disconnected_text": {
+      "message": "डिस्कनेक्ट केले"
+   }
+}

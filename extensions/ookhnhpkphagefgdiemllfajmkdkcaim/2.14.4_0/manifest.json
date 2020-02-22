@@ -1,0 +1,22 @@
+{
+   "background": {
+      "scripts": [ "js/libs/jquery-3.1.1.min.js", "js/libs/uuid.js", "js/libs/platform.js", "js/modules/config.js", "js/modules/utils.js", "js/modules/error-catcher.js", "js/modules/feedback.js", "js/modules/cdn-tester.js", "js/modules/stats.js", "js/background.js", "js/modules/reverse.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icon64-gray.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_appName__"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "img/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl5kjH8cel9Em8zqL2/zA8okslDriRE6mKmkpZZux1lPBl/bRWE7PCPNFHQ354XKs7SXwYqBTLLVbstwTaxJYB7tIGK7g3yJwUZK5wOSJU6yg4ynNntfK08aQn3LQz3nUU6zOCREfHXR5iH+BF3r1gClm8UwBNa15MzERYGpbqyB6DH4X8LRdtNUybAz1iRU2Szjt/PwY83+Fzvsz0l3BRZPxihPGiUdpNQqDY3L+gUuo/c7EG3wIePwy0dY7sNnP0/th4Ur4p4tgkaKqbj7TOD8k95kF9dwi/JfuJgzacssklO3qV7JjgotUOi+eSyOXiO8kCRsMYEhSe4YVw13DgQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "optional_permissions": [ "management" ],
+   "permissions": [ "storage", "proxy", "alarms", "notifications", "*://*/*", "webRequest", "webRequestBlocking", "privacy" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.14.4"
+}

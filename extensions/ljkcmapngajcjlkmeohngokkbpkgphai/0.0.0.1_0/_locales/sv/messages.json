@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "köpa"
+   },
+   "connect_button_text": {
+      "message": "Ansluta"
+   },
+   "connecting_title": {
+      "message": "Ansluter ..."
+   },
+   "connection_error": {
+      "message": "Anslutningsfel. Var god försök igen."
+   },
+   "country_select_page_button": {
+      "message": "Välj land"
+   },
+   "day": {
+      "message": "Dag"
+   },
+   "disconnect_button_text": {
+      "message": "Koppla från"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || Enkel användning och inte aktivering, ej kontroll. Obegränsat och varje gång GRATIS!"
+   },
+   "extension_name": {
+      "message": "Gratis och snabbast VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "Din IP"
+   },
+   "last_connected_servers_title": {
+      "message": "Senast anslutna servrar"
+   },
+   "location_error": {
+      "message": "Anslutningsfel. Vänligen försök igen en annan plats."
+   },
+   "network_problem_decription": {
+      "message": "Kontrollera din internetanslutning."
+   },
+   "network_problem_title": {
+      "message": "Fel! Nätverks problem"
+   },
+   "please_wait_text": {
+      "message": "Vänta..."
+   },
+   "remaing_time": {
+      "message": "Remaing Time"
+   },
+   "select": {
+      "message": "Välj"
+   },
+   "selected": {
+      "message": "Vald"
+   },
+   "settings_title": {
+      "message": "inställningar"
+   },
+   "status_connected_description_text": {
+      "message": "Skyddad anslutning!"
+   },
+   "status_connected_text": {
+      "message": "Ansluten"
+   },
+   "status_disconnected_description_text": {
+      "message": "Oskyddad anslutning!"
+   },
+   "status_disconnected_text": {
+      "message": "Osammanhängande"
+   }
+}

@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "खरीदें"
+   },
+   "connect_button_text": {
+      "message": "जुडिये"
+   },
+   "connecting_title": {
+      "message": "कनेक्ट ..."
+   },
+   "connection_error": {
+      "message": "कनेक्शन त्रुटि। कृपया पुन: प्रयास करें।"
+   },
+   "country_select_page_button": {
+      "message": "देश चुनिए"
+   },
+   "day": {
+      "message": "दिन"
+   },
+   "disconnect_button_text": {
+      "message": "डिस्कनेक्ट"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || आसान उपयोग और सक्रियण नहीं, सत्यापन नहीं। असीमित और हर बार मुफ्त!"
+   },
+   "extension_name": {
+      "message": "फ्री और सबसे तेज़ वीपीएन || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "तुम्हारी आईपी"
+   },
+   "last_connected_servers_title": {
+      "message": "अंतिम कनेक्टेड सर्वर"
+   },
+   "location_error": {
+      "message": "कनेक्शन त्रुटि। कृपया अन्य स्थान पर पुनः प्रयास करें।"
+   },
+   "network_problem_decription": {
+      "message": "कृपया अपने इंटरनेट कनेक्शन की जाँच करें।"
+   },
+   "network_problem_title": {
+      "message": "त्रुटि! नेटवर्क की समस्या"
+   },
+   "please_wait_text": {
+      "message": "कृपया प्रतीक्षा करें..."
+   },
+   "remaing_time": {
+      "message": "शेष समय"
+   },
+   "select": {
+      "message": "चुनते हैं"
+   },
+   "selected": {
+      "message": "चयनित"
+   },
+   "settings_title": {
+      "message": "सेटिंग्स"
+   },
+   "status_connected_description_text": {
+      "message": "संरक्षित कनेक्शन!"
+   },
+   "status_connected_text": {
+      "message": "जुड़े हुए"
+   },
+   "status_disconnected_description_text": {
+      "message": "असुरक्षित कनेक्शन!"
+   },
+   "status_disconnected_text": {
+      "message": "डिस्कनेक्ट किया गया"
+   }
+}

@@ -1,0 +1,47 @@
+{
+   "appDesc": {
+      "message": "ఏ సైట్‌నైనా అన్‌బ్లాక్ చేయండి| iNinja ఫాస్ట్ ప్రాక్సీ/VPN ఎక్స్‌టెన్షన్, మెరుగైన ఆన్‌లైన్ గోప్యతకు యాంటీ-బ్లాకింగ్ టెక్నాలజీ"
+   },
+   "appDisabledButton": {
+      "message": "Enabled App"
+   },
+   "appDisabledTitle": {
+      "message": "To continue you must turn enabled iNinja App"
+   },
+   "appName": {
+      "message": "Proxy VPN to Unblock any sites FREE | iNinja"
+   },
+   "autostartProxy": {
+      "message": "Autostart proxy"
+   },
+   "btnTelegram": {
+      "message": "Use in Telegram"
+   },
+   "linkBack": {
+      "message": "Back"
+   },
+   "linkReview": {
+      "message": "Give feedback"
+   },
+   "linkSettings": {
+      "message": "Proxy settings"
+   },
+   "noInstalledButton": {
+      "message": "Add to Chrome"
+   },
+   "noInstalledTitle": {
+      "message": "To continue you need to install the add-on iNinja App"
+   },
+   "reviewMsg": {
+      "message": "Please, if you liked our extension you can give a review"
+   },
+   "settingsTitle": {
+      "message": "Proxy settings"
+   },
+   "useInOtherApps": {
+      "message": "Use in another application"
+   },
+   "whiteListDomains": {
+      "message": "White list domains"
+   }
+}

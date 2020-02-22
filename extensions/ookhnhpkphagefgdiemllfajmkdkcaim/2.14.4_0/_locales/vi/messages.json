@@ -1,0 +1,47 @@
+{
+   "appDesc": {
+      "message": "Phần mở rộng Proxy / VPN miễn phí và nhanh chóng. iNinja VPN là một công nghệ chống chặn Proxy có mặt để đảm bảo quyền riêng tư trực tuyến của bạn."
+   },
+   "appDisabledButton": {
+      "message": "Enabled App"
+   },
+   "appDisabledTitle": {
+      "message": "To continue you must turn enabled iNinja App"
+   },
+   "appName": {
+      "message": "VPN Proxy Miễn phí giúp Bỏ chặn bất kỳ trang web nào"
+   },
+   "autostartProxy": {
+      "message": "Autostart proxy"
+   },
+   "btnTelegram": {
+      "message": "Use in Telegram"
+   },
+   "linkBack": {
+      "message": "Back"
+   },
+   "linkReview": {
+      "message": "Give feedback"
+   },
+   "linkSettings": {
+      "message": "Proxy settings"
+   },
+   "noInstalledButton": {
+      "message": "Add to Chrome"
+   },
+   "noInstalledTitle": {
+      "message": "To continue you need to install the add-on iNinja App"
+   },
+   "reviewMsg": {
+      "message": "Please, if you liked our extension you can give a review"
+   },
+   "settingsTitle": {
+      "message": "Proxy settings"
+   },
+   "useInOtherApps": {
+      "message": "Use in another application"
+   },
+   "whiteListDomains": {
+      "message": "White list domains"
+   }
+}

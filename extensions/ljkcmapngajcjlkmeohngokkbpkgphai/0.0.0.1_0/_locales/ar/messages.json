@@ -1,0 +1,71 @@
+{
+   "buy": {
+      "message": "يشترى"
+   },
+   "connect_button_text": {
+      "message": "الاتصال"
+   },
+   "connecting_title": {
+      "message": "توصيل..."
+   },
+   "connection_error": {
+      "message": "خطأ في الإتصال. حاول مرة اخرى."
+   },
+   "country_select_page_button": {
+      "message": "حدد الدولة"
+   },
+   "day": {
+      "message": "يوم"
+   },
+   "disconnect_button_text": {
+      "message": "قطع الاتصال"
+   },
+   "extension_description": {
+      "message": "OzmoVPN || سهل الاستخدام وليس التنشيط ، وليس التحقق. غير محدود وكل مرة مجانية!"
+   },
+   "extension_name": {
+      "message": "مجاني وأسرع VPN || OzmoVPN"
+   },
+   "ip_address_text": {
+      "message": "الملكية الفكرية الخاصة بك"
+   },
+   "last_connected_servers_title": {
+      "message": "الخوادم المتصلة الأخيرة"
+   },
+   "location_error": {
+      "message": "خطأ في الإتصال. يرجى المحاولة مرة أخرى موقع آخر."
+   },
+   "network_problem_decription": {
+      "message": "الرجاء التحقق من اتصال الانترنت الخاص بك."
+   },
+   "network_problem_title": {
+      "message": "خطأ! مشكلة شبكة"
+   },
+   "please_wait_text": {
+      "message": "ارجوك انتظر..."
+   },
+   "remaing_time": {
+      "message": "الوقت Remaing"
+   },
+   "select": {
+      "message": "تحديد"
+   },
+   "selected": {
+      "message": "المحدد"
+   },
+   "settings_title": {
+      "message": "الإعدادات"
+   },
+   "status_connected_description_text": {
+      "message": "اتصال محمي!"
+   },
+   "status_connected_text": {
+      "message": "متصل"
+   },
+   "status_disconnected_description_text": {
+      "message": "اتصال غير محمي!"
+   },
+   "status_disconnected_text": {
+      "message": "انقطع الاتصال"
+   }
+}

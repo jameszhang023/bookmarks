@@ -1,0 +1,47 @@
+{
+  "appName": {
+    "message": "Proxy VPN to Unblock any sites FREE | iNinja"
+  },
+  "appDesc": {
+    "message": "Proxy VPN låser opp alle sider GRATIS | iNinja Gratis og lynhurtig chrome-proxy / VPN-forlengelse."
+  },
+  "noInstalledTitle": {
+    "message": "To continue you need to install the add-on iNinja App"
+  },
+  "noInstalledButton": {
+    "message": "Add to Chrome"
+  },
+  "appDisabledTitle": {
+    "message": "To continue you must turn enabled iNinja App"
+  },
+  "appDisabledButton": {
+    "message": "Enabled App"
+  },
+  "reviewMsg": {
+    "message": "Please, if you liked our extension you can give a review"
+  },
+  "useInOtherApps": {
+    "message": "Use in another application"
+  },
+  "btnTelegram": {
+    "message": "Use in Telegram"
+  },
+  "linkSettings": {
+    "message": "Proxy settings"
+  },
+  "linkReview": {
+    "message": "Give feedback"
+  },
+  "settingsTitle": {
+    "message": "Proxy settings"
+  },
+  "linkBack": {
+    "message": "Back"
+  },
+  "autostartProxy": {
+    "message": "Autostart proxy"
+  },
+  "whiteListDomains": {
+    "message": "White list domains"
+  }
+}

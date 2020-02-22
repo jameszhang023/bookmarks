@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+    <link href="https://fonts.googleapis.com/css?family=Hind|Roboto:300,400,500,700,900&display=swap" rel="stylesheet" async>
+    <link rel="stylesheet" href="css/jquery.tag-editor.css">
+    <link rel="stylesheet" href="css/flexboxgrid.min.css"/>
+    <link rel="stylesheet" href="css/switch.css"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+
+    <!-- build:js -->
+    <script src="js/libs/jquery-3.1.1.min.js"></script>
+    <script src="js/libs/jquery.caret.min.js"></script>
+    <script src="js/libs/jquery.tag-editor.min.js"></script>
+    <script src="js/modules/config.js"></script>
+    <script src="js/modules/error-catcher.js"></script>
+    <script src="js/modules/utils.js"></script>
+    <script src="js/popup.js"></script>
+    <!-- endbuild -->
+</head>
+<body>
+
+<div class="container wrap">
+
+    <div class="app-loader">
+        <div class="col-xs-12 logo">
+            <a href="https://ininja.org/" target="_blank"><img src="img/icon64.png" width="32"/></a>
+            <h2>iNinja Proxy</h2>
+        </div>
+        <div class="col-xs-12 center-xs loader-block">
+            <img src="img/first-loader.gif" height="84"/>
+        </div>
+    </div>
+
+    <div class="app-main">
+        <div class="row middle-xs">
+            <div class="col-xs-12 logo">
+                <a href="https://ininja.org/" target="_blank"><img src="img/icon64.png"/></a>
+                <h2>iNinja Proxy</h2>
+            </div>
+            <div class="col-xs-12 center-xs">
+                <select class="form" id="proxy-server">
+                  <option value="185.159.82.172:185.130.104.137:185.130.104.139:11084">Moscow, Russian Federation</option>
+                  <option value="23.237.16.26:23.237.16.27:11084">Denver, Colorado, USA</option>
+                  <option value="185.130.105.66:185.209.162.141:185.162.131.46:11084">Netherlands, Amsterdam</option>
+                  <option value="50.7.184.98:50.7.184.99:11084">Vienna, Austria</option>
+                  <option value="50.7.154.98:50.7.154.99:11084">London, United Kingdom</option>
+                  <option value="192.240.98.162:192.240.98.163:11084">Miami, Florida, USA</option>
+                  <option value="23.237.128.50:23.237.128.51:11084">Chicago, Illinois, USA</option>
+                  <option value="185.180.198.66:162.244.32.43:104.193.252.169:11084">California, USA</option>
+                  <option value="185.180.197.65:204.155.30.126:185.180.197.93:11084">New York, USA</option>
+                </select>
+            </div>
+            <div class="col-xs-8 switch-title">
+                <label class="text-right">Proxy (Off/Wait/On):</label>
+            </div>
+            <div class="col-xs-4 switch-wrap">
+                <label class="switch">
+                    <input id="btn-on-off" type="checkbox">
+                    <div class="slider round center-xs"></div>
+                </label>
+            </div>
+            <div class="col-xs-12 center-xs loader">
+                <img src="img/loader.gif" width="100" height="12.5"/>
+            </div>
+            <div class="col-xs-12 footer">
+                <a href="https://chrome.google.com/webstore/detail/ookhnhpkphagefgdiemllfajmkdkcaim/reviews" target="_blank">
+                  <img src="/img/link-1.png"/>
+                  __MSG_linkReview__
+                </a>
+                <a href="#" id="settings">
+                  <img src="/img/link-2.png"/>
+                  __MSG_linkSettings__
+                </a>
+                <a href="#" id="use-in-other-apps">
+                  <img src="/img/link-3.png"/>
+                  __MSG_useInOtherApps__
+                </a>
+                <a href="#" class="dns-setting">
+                  DNS Setting <span>(need to enable Secure DNS lookups)</span>
+                </a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<div class="settings-tab">
+    <a href="#" class="back-to-home">
+      __MSG_linkBack__
+    </a>
+    <h5 class="center-xs">__MSG_settingsTitle__</h5>
+    <div class="row">
+      <div class="col-xs-12">
+        <label class="switch-title">__MSG_autostartProxy__:</label>
+        <label class="switch">
+            <input id="checkbox-auto-start" type="checkbox">
+            <div class="slider slider-green round center-xs"></div>
+        </label>
+      </div>
+    </div>
+    <p class="">__MSG_whiteListDomains__:</p>
+    <div class="row">
+        <div class="col-xs-12 center-xs">
+            <textarea id="white-list" class="form"></textarea>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
